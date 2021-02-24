@@ -4,6 +4,18 @@ Ionic 5 Hijri Date Islamic Date picker التاريخ الهجري و الميل
 Ionic 5 Hijri Date Islamic Date picker التاريخ الهجري و الميلادي 
 
 
+########################################################
+
+clone the repo, then inside run
+
+npm i
+
+ionic serve
+
+
+########################################################
+
+
 
 ![alt text](https://raw.githubusercontent.com/mobgreat0/Ionic5-Hijri-Date-Picker/main/images/hijri%20(1).PNG)
 
