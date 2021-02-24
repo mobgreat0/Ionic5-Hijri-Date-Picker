@@ -1,0 +1,7 @@
+{
+  "name": "hijri-plug",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
