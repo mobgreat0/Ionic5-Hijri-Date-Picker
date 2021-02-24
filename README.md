@@ -1,6 +1,10 @@
 # Ionic5-Hijri-Date-Picker
 Ionic 5 Hijri Date Islamic Date picker التاريخ الهجري و الميلادي 
 
+Ionic 5 Hijri Date Islamic Date picker التاريخ الهجري و الميلادي 
+
+High Quality 
+
 Plse see the images under images folder
 ios/android/web
 
