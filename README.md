@@ -7,12 +7,15 @@ ios/android/web
 ########################################################
 
 Based On
+
 https://www.npmjs.com/package/ngx-hijri-gregorian-datepicker
 
 
 
 On your ionic project do the following steps:
+
 ########################################################
+
 npm i ngx-hijri-gregorian-datepicker
 
 npm i moment
@@ -24,6 +27,7 @@ npm install @angular/localize --save
 npm i @ng-bootstrap/ng-bootstrap --save
 
 ########################################################
+
 put inside polyfills.ts
 
 import '@angular/localize/init'
@@ -37,6 +41,7 @@ put inside index.html
   <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"> -->
   
 ########################################################  
+
 put inside assets/boot
 
 https://raw.githubusercontent.com/mobgreat0/Ionic5-Hijri-Date-Picker/main/src/assets/boot/bootstrap.min.css
