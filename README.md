@@ -38,11 +38,13 @@ import '@angular/localize/init'
 
 ########################################################
 
-put inside index.html
+put bootstrap inside index.html
 
-  <link rel="stylesheet" href="assets/boot/bootstrap.min.css">
+https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+
+<link rel="stylesheet" href="assets/boot/bootstrap.min.css">
   
-  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"> -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"> -->
   
 ########################################################  
 
